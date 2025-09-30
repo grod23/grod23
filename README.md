@@ -27,7 +27,7 @@ I'm currently leading a team to engineer a breast cancer tumor stage classifier 
 
 - 📍 Location: Fullerton, CA  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielrodriguezml2003)  
-- 💼 [Resume](https://github.com/grod23)  
+- 💼 [Resume](https://github.com/grod23/Gabriel-Rodriguez-Resume.git)
 - ✉️ Email: gabe7rodriguez@gmail.com
 
 ---
