@@ -14,9 +14,9 @@ Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a M
 
 ## 🧰 Technical Toolbox
 
-**Languages**: Python, R  
+**Languages**: Python, SQL 
 **Libraries**: PyTorch, Torchvision, OpenCV, NumPy, Pandas, Scikit-learn, Matplotlib  
-**Concepts**: Machine Learning, Deep Learning, Computer Vision, Data Preprocessing, Agile, Scrum  
+**Concepts**: Machine Learning, Deep Learning, Computer Vision, Data Preprocessing, Agile Methodologies
 **Tools**: CUDA, Git/GitHub, PyCharm, Visual Studio, JupyterLab, Google Colab
 
 ## 🌱 What I'm Working On
