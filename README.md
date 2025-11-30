@@ -7,10 +7,10 @@ Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a M
 ## 🚀 Projects That Define Me
 
 - 🧠 **MRI Brain Tumor Classifier**  (In Progress)
-  A convolutional neural network (CNN) built with PyTorch and OpenCV to classify glioma, meningioma, and pituitary tumors from MRI scans. Includes advanced preprocessing like histogram equalization and data augmentation.
+  A **convolutional neural network (CNN)** built with **PyTorch** and **OpenCV** to classify glioma, meningioma, and pituitary tumors from MRI scans. Attained **89% accuracy** and **90% recall** across tumor-positive cases. Leveraged **Explainable AI (XAI)** methods such as **Grad-CAM** for model inteprebaility and clinical trust.
 
 - 🔍 **Diabetes Prediction Model**  
-  An artificial neural network (ANN) trained on patient medical data to predict diabetes with 80% accuracy and 92% recall. Focused on feature engineering and diagnostic sensitivity.
+  An artificial neural network (ANN) trained on patient medical data to predict diabetes with **80% accuracy** and **92% recall**. Utilized **Pandas** for **feature engineering** and **Scikit-Learn** to address class imbalances. 
 
 ## 🧰 Technical Toolbox
 
@@ -21,8 +21,7 @@ Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a M
 
 ## 🌱 What I'm Working On
 
-I'm currently leading a team to engineer a breast cancer tumor stage classifier using the TNM grading system with the Data Science & Machine Learning Club at Cal State Fullerton. My focus is on feature engineering, model selection, and cross-validation.
-
+I'm currently leading a team to engineer a breast cancer tumor stage classifier using the TNM grading system with the Data Science & Machine Learning Club at Cal State Fullerton. Developing a **mulitmodal vision tranformer** employing **MONAI** for medical image processing, augmentation, and **3D deep learning**. 
 ## 📫 Let's Connect
 
 - 📍 Location: Fullerton, CA  
