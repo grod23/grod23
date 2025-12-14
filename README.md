@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a Minor in Data Science at Cal State Fullerton. My passion lies in building intelligent systems that solve real world problems using machine learning, deep learning, and computer vision.
 
-## 🚀 Projects That Define Me
+## 🚀 Projects
 
 - 🧠 **MRI Brain Tumor Classifier**  (In Progress)
   A **convolutional neural network (CNN)** built with **PyTorch** and **OpenCV** to classify glioma, meningioma, and pituitary tumors from MRI scans. Attained **89% accuracy** and **90% recall** across tumor-positive cases. Leveraged **Explainable AI (XAI)** methods such as **Grad-CAM** for model inteprebaility and clinical trust.
