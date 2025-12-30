@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a M
 
 ## 🚀 Projects
 
-- 🎗️ **Breast Cancer T-Stage Prediction (Multimodal 2.5D CNN)**
+- 🎗️ **Breast Cancer T-Stage Classifier (Multimodal 2.5D CNN)**
   
   This project presents a **multimodal** approach to breast cancer T-stage classification, integrating structured clinical variables, radiomic features, and 3D breast MRI (DICOM) data within a unified framework. I **co-   authored a research paper** and **led a team of three students**, overseeing model design, experimentation, and evaluation.
   MRI volumes were processed using a **MONAI-based medical imaging pipeline**, incorporating **region-of-interest selection**, **spatial resampling**, and **intensity normalization** to ensure consistency across           patients and imaging protocols. For modeling, we employed a **late-fusion 2.5D convolutional neural network** with a **ResNet backbone**, stacking neighboring slices to capture volumetric context while preserving the    efficiency of 2D convolutions. Uitilization of the 2.5D CNN exhibited strong late stage tumor analysis enhancing **T-stage 3 recall to 87%** while achieving a **97% F1-score on T-stage 4 tumors**. 
