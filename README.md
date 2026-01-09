@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student | Machine Learning Architect | Data Science Enthusiast**
 
-Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a Minor in Data Science at Cal State Fullerton. My passion lies in building intelligent systems that solve real world problems using machine learning, deep learning, and computer vision.
+Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a Minor in Data Science at California State University, Fullerton. My passion lies in building intelligent systems that solve real world problems using machine learning, deep learning, and computer vision.
 
 ## 🚀 Projects
 
