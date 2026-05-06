@@ -6,6 +6,14 @@ Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a M
 
 ## 🚀 Projects
 
+- 👁️ **Computer Vision for Early Screening of Eye and Brain Disease**
+   
+  Developed a **U-Net-based deep learning model** for retinal vessel segmentation to analyze **Spontaneous Venous Pulsations (SVP)** A clinically relevant biomarker for **glaucoma** and **elevated intracranial pressure (ICP)**.  
+
+  Implemented **image preprocessing techniques** including **green channel extraction** and **CLAHE** to enhance vessel contrast. Designed a pipeline to compare vessel diameter across temporal frames, enabling **quantitative pulsation analysis** for early disease screening.  
+
+  🏆 *Presented at the CSU Student Research Competition (Engineering & Computer Science), representing Cal State Fullerton.*
+
 - 🎗️ **Breast Cancer T-Stage Classifier (Multimodal 2.5D CNN)**
   
   This project presents a **multimodal** approach to breast cancer T-stage classification, integrating structured clinical data, radiomic features, and 3D breast MRI (DICOM) volumes within a unified framework. I **co-authored a research paper** and **led a team of three students**, overseeing model design, experimentation, and evaluation.
@@ -34,7 +42,11 @@ Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science with a M
 
 ## 🌱 What I'm Working On
 
-I'm currently developing a spontaneous retinal venous pulsation (SVP) segmentation model using a handheld-device fundus imaging dataset. This project focuses on computer vision and medical image segmentation techniques to extract SVP patterns, with potential applications in non-invasive intracranial pressure assessment and ophthalmic diagnostics.
+🚗 **Autonomous Driving Systems Research (UC Merced)**  
+Incoming research fellow working on **computer vision and machine learning for autonomous driving**, with a focus on:
+- Scene understanding  
+- Visual perception  
+- Real-time decision-making in dynamic environments  
 
 ## 📫 Let's Connect
 
