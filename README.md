@@ -57,7 +57,7 @@ Supported dataset development through **manual annotation of 1,000+ driving inst
 
 ## 🌱 What I'm Working On
 
-- 🚗 **Driving Intent Decomposition for Autonomous Driving (UC Merced Research Fellowship)**
+### 🚗 Driving Intent Decomposition for Autonomous Driving (UC Merced Research Fellowship)**
 
 Developing methods for improving **long-horizon instruction understanding in Vision-Language-Action (VLA) models** for autonomous driving.
 
