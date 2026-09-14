@@ -12,11 +12,6 @@ Contributed to the development of **doPlan**, a newly introduced autonomous driv
 
 Supported dataset development through **manual annotation of 1,000+ driving instructions**, helping create passenger-oriented language annotations grounded in real-world driving scenarios. Unlike traditional navigation commands, doPlan focuses on instructions similar to how a passenger would communicate with a human driver, including both **short- and long-horizon instructions across temporally diverse driving segments**.
 
-**Contributions:**
-- Annotated and verified 1,000+ natural language driving instructions
-- Supported annotation quality control and dataset refinement
-- Helped prepare multimodal training and evaluation data for autonomous driving research
-
 **Research applications:**
 - **Natural passenger interaction:** Enables research into autonomous vehicles that understand conversational, human-like instructions similar to those given to a taxi driver.
 - **Emergency response and external coordination:** Enables exploration of how autonomous vehicles can interpret instructions from external actors such as first responders in dynamic environments.
