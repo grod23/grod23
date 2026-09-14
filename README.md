@@ -52,7 +52,7 @@ Supported dataset development through **manual annotation of 1,000+ driving inst
 
 ## 🌱 What I'm Working On
 
-### 🚗 Instruction Compostion and Decomposition for Long-Horizon Autonmous Driving**
+### 🚗 Instruction Compostion and Decomposition for Long-Horizon Autonmous Driving
 
 Developing methods for improving **long-horizon instruction understanding in Vision-Language-Action (VLA) models** for autonomous driving.
 
